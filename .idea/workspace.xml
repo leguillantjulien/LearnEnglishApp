@@ -1,0 +1,2644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProjectFinal:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e85b136e-69b1-42a0-b4cd-659c9a3f11d7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SessionView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/SessionView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2714#2715#0" expanded="false" />
+                <element signature="e#2744#2745#0" expanded="false" />
+                <element signature="e#2779#2780#0" expanded="false" />
+                <element signature="e#2809#2810#0" expanded="false" />
+                <element signature="e#2845#2846#0" expanded="false" />
+                <element signature="e#2876#2877#0" expanded="false" />
+                <element signature="e#2919#2920#0" expanded="false" />
+                <element signature="e#2957#2958#0" expanded="false" />
+                <element signature="e#2995#2996#0" expanded="false" />
+                <element signature="e#3028#3029#0" expanded="false" />
+                <element signature="e#3068#3069#0" expanded="false" />
+                <element signature="e#3096#3097#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/RegisterView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1243">
+              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2645#2646#0" expanded="false" />
+                <element signature="e#2674#2675#0" expanded="false" />
+                <element signature="e#2721#2722#0" expanded="false" />
+                <element signature="e#2757#2758#0" expanded="false" />
+                <element signature="e#2788#2789#0" expanded="false" />
+                <element signature="e#2814#2815#0" expanded="false" />
+                <element signature="e#2896#2897#0" expanded="false" />
+                <element signature="e#2928#2929#0" expanded="false" />
+                <element signature="e#2973#2974#0" expanded="false" />
+                <element signature="e#3006#3007#0" expanded="false" />
+                <element signature="e#3043#3044#0" expanded="false" />
+                <element signature="e#3070#3071#0" expanded="false" />
+                <element signature="e#3116#3117#0" expanded="false" />
+                <element signature="e#3159#3160#0" expanded="false" />
+                <element signature="e#3198#3199#0" expanded="false" />
+                <element signature="e#3227#3228#0" expanded="false" />
+                <element signature="e#3275#3276#0" expanded="false" />
+                <element signature="e#3320#3321#0" expanded="false" />
+                <element signature="e#3355#3356#0" expanded="false" />
+                <element signature="e#3385#3386#0" expanded="false" />
+                <element signature="e#3425#3426#0" expanded="false" />
+                <element signature="e#3453#3454#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/frame/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1085#1086#0" expanded="false" />
+                <element signature="e#1133#1134#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExerciceDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/DAO/ExerciceDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-55">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#356#357#0" expanded="false" />
+                <element signature="e#387#388#0" expanded="false" />
+                <marker date="1497477171000" expanded="true" signature="1046:1132" ph="SELECT * FRO... exercice" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HistoryDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/DAO/HistoryDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#453#454#0" expanded="false" />
+                <element signature="e#484#485#0" expanded="false" />
+                <marker date="1497558481000" expanded="true" signature="1058:1096" ph="SELECT * FRO... Session" />
+                <marker date="1497558481000" expanded="true" signature="2041:2085" ph="SELECT * FRO... exoSession" />
+                <marker date="1497558481000" expanded="true" signature="2978:2999" ph="SELECT * FRO... Session" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/DAO/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <marker date="1497518279000" expanded="true" signature="937:985" ph="SELECT * FRO... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashBoardView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/view/DashBoardView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1455#1456#0" expanded="false" />
+                <element signature="e#1483#1484#0" expanded="false" />
+                <element signature="e#1518#1519#0" expanded="false" />
+                <element signature="e#1549#1550#0" expanded="false" />
+                <element signature="e#1597#1598#0" expanded="false" />
+                <element signature="e#1637#1638#0" expanded="false" />
+                <element signature="e#1672#1673#0" expanded="false" />
+                <element signature="e#1703#1704#0" expanded="false" />
+                <element signature="e#1751#1752#0" expanded="false" />
+                <element signature="e#1791#1792#0" expanded="false" />
+                <element signature="e#1821#1822#0" expanded="false" />
+                <element signature="e#1847#1848#0" expanded="false" />
+                <element signature="e#1882#1883#0" expanded="false" />
+                <element signature="e#1913#1914#0" expanded="false" />
+                <element signature="e#2034#2035#0" expanded="false" />
+                <element signature="e#2063#2064#0" expanded="false" />
+                <element signature="e#2097#2098#0" expanded="false" />
+                <element signature="e#2127#2128#0" expanded="false" />
+                <element signature="e#2168#2169#0" expanded="false" />
+                <element signature="e#2204#2205#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>syste</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/model/Object/Language.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/com/DAO/DatabaseFactoryDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/DAO/ExerciceDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Object/Exercice.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Observer/DefaultListModelObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Observer/JLabelObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/model/HistoryModel.java" />
+        <option value="$PROJECT_DIR$/src/com/model/LeconModel.java" />
+        <option value="$PROJECT_DIR$/src/com/view/DialogMsg.java" />
+        <option value="$PROJECT_DIR$/src/com/model/SessionModel.java" />
+        <option value="$PROJECT_DIR$/src/com/view/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/HistoryController.java" />
+        <option value="$PROJECT_DIR$/src/com/model/LoginModel.java" />
+        <option value="$PROJECT_DIR$/src/com/DAO/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Object/User.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/SessionController.java" />
+        <option value="$PROJECT_DIR$/src/com/view/View.java" />
+        <option value="$PROJECT_DIR$/src/com/view/MenuView.java" />
+        <option value="$PROJECT_DIR$/src/com/view/frame/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/view/DashBoardView.java" />
+        <option value="$PROJECT_DIR$/src/com/view/SessionView.java" />
+        <option value="$PROJECT_DIR$/src/com/model/RegisterModel.java" />
+        <option value="$PROJECT_DIR$/src/com/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/com/view/LeconView.java" />
+        <option value="$PROJECT_DIR$/src/com/DAO/HistoryDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/DashBoardController.java" />
+        <option value="$PROJECT_DIR$/src/com/view/frame/JMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/controller/LeconController.java" />
+        <option value="$PROJECT_DIR$/src/com/view/RegisterView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjectFinal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="projectfinal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjectFinal" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.controller.MainController" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_Julien_LeGuillant" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e85b136e-69b1-42a0-b4cd-659c9a3f11d7" name="Default" comment="" />
+      <created>1497461981280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497461981280</updated>
+      <workItem from="1497461984878" duration="4283000" />
+      <workItem from="1497470332202" duration="8280000" />
+      <workItem from="1497519907003" duration="2789000" />
+      <workItem from="1497554900597" duration="318000" />
+      <workItem from="1497555794408" duration="2900000" />
+      <workItem from="1497594270783" duration="1025000" />
+      <workItem from="1497863612186" duration="242000" />
+      <workItem from="1497864129082" duration="243000" />
+      <workItem from="1497882627249" duration="998000" />
+      <workItem from="1497984584519" duration="12500000" />
+      <workItem from="1500151804336" duration="4000" />
+      <workItem from="1505139284573" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33998000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="6.9444446E-4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28604925" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22014925" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49444443" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/model/Object/User.java</url>
+          <line>41</line>
+          <properties class="com.model.Object.User" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1077#1078#0" expanded="false" />
+            <element signature="e#1105#1106#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1231#1232#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Object/Lecon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/SessionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/LeconModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="37" column="85" lean-forward="false" selection-start-line="37" selection-start-column="85" selection-end-line="37" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/LoginModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/DialogMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/HistoryView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/MenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-ProjectFinal">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-ProjectFinal</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-ProjectFinal</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="139.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Object/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding>
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1077#1078#0" expanded="false" />
+            <element signature="e#1105#1106#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1231#1232#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/RegisterModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="63" column="55" lean-forward="false" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/LeconView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/db;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/db;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="-2060.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.controller</OriginalElement>
+          <nodes>
+            <node x="" y="">com.controller.DashBoardController</node>
+            <node x="" y="">com.controller.LoginController</node>
+            <node x="" y="">com.controller.SessionController</node>
+            <node x="" y="">com.controller.HistoryController</node>
+            <node x="" y="">com.controller.LeconController</node>
+            <node x="" y="">com.controller.RegisterController</node>
+            <node x="" y="">com.controller.MenuController</node>
+            <node x="" y="">com.controller.MainController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="181.0" y="163.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/db;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/db;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.controller.DashBoardController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.controller.DashBoardController</OriginalElement>
+          <nodes>
+            <node x="3312.5085349174624" y="1715.0">com.view.MenuView</node>
+            <node x="944.6149499310209" y="375.0">com.model.Model</node>
+            <node x="1163.6149499310209" y="693.0">com.model.LeconModel</node>
+            <node x="1330.6508308538005" y="2147.776186704914">com.view.frame.MainWindow</node>
+            <node x="1315.6774499310209" y="1014.0">com.view.SessionView</node>
+            <node x="1961.1958333333334" y="397.0">com.view.View</node>
+            <node x="1268.7681592217307" y="1737.0">com.controller.LoginController</node>
+            <node x="2998.0693436642678" y="135.1714791273078">com.DAO.HistoryDAO</node>
+            <node x="518.375" y="649.0">com.model.LoginModel</node>
+            <node x="2682.732714027384" y="126.64730980292964">com.DAO.ExerciceDAO</node>
+            <node x="2396.4803256267523" y="331.0">com.model.HistoryModel</node>
+            <node x="1958.510984848483" y="1440.0">com.controller.SessionController</node>
+            <node x="2979.219739291965" y="-3.559493995666486">com.DAO.DatabaseFactoryDAO</node>
+            <node x="2857.1958333333337" y="375.0">com.DAO.UserDAO</node>
+            <node x="1305.1508308538005" y="2046.776186704914">com.view.frame.JMenu</node>
+            <node x="2682.260984848483" y="959.0">com.view.DashBoardView</node>
+            <node x="1035.6774499310209" y="1014.0">com.model.SessionModel</node>
+            <node x="1600.6204113957879" y="1580.1356407458184">com.model.Object.Language</node>
+            <node x="2958.438658960086" y="1726.0">com.controller.DashBoardController</node>
+            <node x="2401.260984848483" y="1047.0">com.controller.HistoryController</node>
+            <node x="498.6774499310209" y="1330.0">com.view.RegisterView</node>
+            <node x="1821.260984848483" y="671.0">com.view.LeconView</node>
+            <node x="2713.732714027384" y="3.647309802929584">com.model.Object.Exercice</node>
+            <node x="1297.135984848483" y="1932.0">com.controller.MenuController</node>
+            <node x="387.3859848484831" y="1726.0">com.controller.RegisterController</node>
+            <node x="1477.9601660994886" y="727.931091561834">com.model.Object.Lecon</node>
+            <node x="36.5" y="572.0">com.model.RegisterModel</node>
+            <node x="1503.7681592217307" y="1407.0">com.view.LoginView</node>
+            <node x="968.9875000000002" y="0.0">com.model.Object.User</node>
+            <node x="2135.260984848483" y="671.0">com.view.HistoryView</node>
+            <node x="1741.635984848483" y="1047.0">com.controller.LeconController</node>
+            <node x="3125.260984848483" y="1047.0">com.view.DialogMsg</node>
+            <node x="1349.9999999999995" y="2253.971795914551">com.controller.MainController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.model.SessionModel" target="com.model.LeconModel">
+              <point x="32.50000000000006" y="-80.5" />
+              <point x="-103.125" y="47.5" />
+            </edge>
+            <edge source="com.controller.LeconController" target="com.view.LeconView">
+              <point x="63.25" y="-47.5" />
+              <point x="1931.385984848483" y="939.0" />
+              <point x="1894.760984848483" y="939.0" />
+              <point x="-73.5" y="69.5" />
+            </edge>
+            <edge source="com.model.SessionModel" target="com.model.Model">
+              <point x="-97.5" y="-80.5" />
+              <point x="24.75" y="36.5" />
+            </edge>
+            <edge source="com.controller.RegisterController" target="com.model.RegisterModel">
+              <point x="-106.40000000000009" y="-47.5" />
+              <point x="413.985984848483" y="1695.0" />
+              <point x="443.1359848484831" y="1695.0" />
+              <point x="443.1359848484831" y="929.0" />
+              <point x="335.75" y="929.0" />
+              <point x="99.75" y="168.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.model.SessionModel">
+              <point x="-66.69230769230762" y="-47.5" />
+              <point x="1374.9436771561755" y="1882.0" />
+              <point x="376.8859848484831" y="1882.0" />
+              <point x="376.8859848484831" y="1290.0" />
+              <point x="1068.1774499310209" y="1290.0" />
+              <point x="-97.5" y="80.5" />
+            </edge>
+            <edge source="com.DAO.ExerciceDAO" target="com.model.Object.Exercice">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.model.SessionModel">
+              <point x="-113.66666666666674" y="-47.5" />
+              <point x="1968.8443181818163" y="1300.0" />
+              <point x="1263.1774499310209" y="1300.0" />
+              <point x="97.50000000000006" y="80.5" />
+            </edge>
+            <edge source="com.model.RegisterModel" target="com.model.Object.User">
+              <point x="-99.75" y="-168.5" />
+              <point x="136.25" y="301.0" />
+              <point x="1045.701785714286" y="301.0" />
+              <point x="-102.28571428571422" y="135.5" />
+            </edge>
+            <edge source="com.model.HistoryModel" target="com.model.Object.User">
+              <point x="0.0" y="-80.5" />
+              <point x="2534.9803256267523" y="311.0" />
+              <point x="1199.1303571428573" y="311.0" />
+              <point x="51.14285714285717" y="135.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.view.RegisterView">
+              <point x="-22.23076923076917" y="-47.5" />
+              <point x="1419.4052156177138" y="1862.0" />
+              <point x="845.1774499310209" y="1862.0" />
+              <point x="115.5" y="157.5" />
+            </edge>
+            <edge source="com.model.RegisterModel" target="com.model.Model">
+              <point x="99.75" y="-168.5" />
+              <point x="335.75" y="542.0" />
+              <point x="969.3649499310209" y="542.0" />
+              <point x="-74.25" y="36.5" />
+            </edge>
+            <edge source="com.controller.DashBoardController" target="com.controller.SessionController">
+              <point x="-82.5" y="-47.5" />
+              <point x="2985.938658960086" y="1695.0" />
+              <point x="2132.110984848483" y="1695.0" />
+              <point x="49.59999999999991" y="47.5" />
+            </edge>
+            <edge source="com.controller.RegisterController" target="com.view.SessionView">
+              <point x="0.0" y="-47.5" />
+              <point x="520.3859848484831" y="1695.0" />
+              <point x="488.1774499310209" y="1695.0" />
+              <point x="488.1774499310209" y="1310.0" />
+              <point x="1353.8024499310209" y="1310.0" />
+              <point x="-114.375" y="80.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.model.Object.User">
+              <point x="-133.38461538461536" y="-47.5" />
+              <point x="1308.2513694638676" y="1912.0" />
+              <point x="26.0" y="1912.0" />
+              <point x="26.0" y="291.0" />
+              <point x="994.5589285714287" y="291.0" />
+              <point x="-153.42857142857144" y="135.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.controller.RegisterController">
+              <point x="-44.46153846153845" y="-47.5" />
+              <point x="1397.1744463869445" y="1872.0" />
+              <point x="520.3859848484831" y="1872.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.view.HistoryView">
+              <point x="10.333333333333258" y="-47.5" />
+              <point x="2092.8443181818166" y="1260.0" />
+              <point x="2196.510984848483" y="1260.0" />
+              <point x="-61.25" y="69.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.view.LeconView">
+              <point x="-10.333333333333371" y="-47.5" />
+              <point x="2072.1776515151496" y="1250.0" />
+              <point x="2005.135984848483" y="1250.0" />
+              <point x="2005.135984848483" y="939.0" />
+              <point x="2041.760984848483" y="939.0" />
+              <point x="73.5" y="69.5" />
+            </edge>
+            <edge source="com.controller.LoginController" target="com.view.LoginView">
+              <point x="42.799999999999955" y="-36.5" />
+              <point x="1418.5681592217306" y="1675.0" />
+              <point x="1579.0181592217307" y="1675.0" />
+              <point x="-75.25" y="80.5" />
+            </edge>
+            <edge source="com.model.LoginModel" target="com.model.Model">
+              <point x="86.5" y="-91.5" />
+              <point x="777.875" y="552.0" />
+              <point x="1018.8649499310209" y="552.0" />
+              <point x="-24.75" y="36.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.view.MenuView">
+              <point x="88.9230769230769" y="-47.5" />
+              <point x="1530.5590617715598" y="1892.0" />
+              <point x="3369.7585349174624" y="1892.0" />
+              <point x="-57.25" y="58.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.view.SessionView">
+              <point x="22.230769230769283" y="-47.5" />
+              <point x="1463.8667540792521" y="1862.0" />
+              <point x="1493.2681592217307" y="1862.0" />
+              <point x="1493.2681592217307" y="1310.0" />
+              <point x="1506.3024499310209" y="1310.0" />
+              <point x="38.125" y="80.5" />
+            </edge>
+            <edge source="com.view.HistoryView" target="com.view.View">
+              <point x="-61.25" y="-69.5" />
+              <point x="2196.510984848483" y="552.0" />
+              <point x="2010.6958333333334" y="552.0" />
+              <point x="11.0" y="14.5" />
+            </edge>
+            <edge source="com.controller.LoginController" target="com.controller.SessionController">
+              <point x="85.60000000000002" y="-36.5" />
+              <point x="1461.3681592217308" y="1695.0" />
+              <point x="2032.9109848484832" y="1695.0" />
+              <point x="-49.60000000000002" y="47.5" />
+            </edge>
+            <edge source="com.controller.DashBoardController" target="com.view.DashBoardView">
+              <point x="27.5" y="-47.5" />
+              <point x="3095.938658960086" y="1300.0" />
+              <point x="2962.010984848483" y="1300.0" />
+              <point x="93.25" y="135.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.model.LoginModel">
+              <point x="-88.9230769230769" y="-47.5" />
+              <point x="1352.712907925406" y="1892.0" />
+              <point x="365.8859848484831" y="1892.0" />
+              <point x="365.8859848484831" y="939.0" />
+              <point x="604.875" y="939.0" />
+              <point x="-86.5" y="91.5" />
+            </edge>
+            <edge source="com.view.LeconView" target="com.view.View">
+              <point x="0.0" y="-69.5" />
+              <point x="1968.260984848483" y="552.0" />
+              <point x="1999.6958333333334" y="552.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.model.LeconModel">
+              <point x="-72.33333333333348" y="-47.5" />
+              <point x="2010.1776515151496" y="1280.0" />
+              <point x="1731.135984848483" y="1280.0" />
+              <point x="1731.135984848483" y="939.0" />
+              <point x="1335.4899499310209" y="939.0" />
+              <point x="34.375" y="47.5" />
+            </edge>
+            <edge source="com.model.LeconModel" target="com.model.SessionModel">
+              <point x="-34.375" y="47.5" />
+              <point x="1266.7399499310209" y="939.0" />
+              <point x="1263.1774499310209" y="939.0" />
+              <point x="97.50000000000006" y="-80.5" />
+            </edge>
+            <edge source="com.view.HistoryView" target="com.model.HistoryModel">
+              <point x="61.25" y="-69.5" />
+              <point x="2319.010984848483" y="542.0" />
+              <point x="2442.646992293419" y="542.0" />
+              <point x="-92.33333333333326" y="80.5" />
+            </edge>
+            <edge source="com.controller.LeconController" target="com.model.LeconModel">
+              <point x="-63.25" y="-47.5" />
+              <point x="1804.885984848483" y="929.0" />
+              <point x="1404.2399499310209" y="929.0" />
+              <point x="103.125" y="47.5" />
+            </edge>
+            <edge source="com.controller.HistoryController" target="com.view.HistoryView">
+              <point x="-65.25" y="-47.5" />
+              <point x="2466.510984848483" y="939.0" />
+              <point x="2319.010984848483" y="939.0" />
+              <point x="61.25" y="69.5" />
+            </edge>
+            <edge source="com.controller.LeconController" target="com.controller.SessionController">
+              <point x="63.25" y="47.5" />
+              <point x="1931.385984848483" y="1260.0" />
+              <point x="2051.510984848483" y="1260.0" />
+              <point x="-31.0" y="-47.5" />
+            </edge>
+            <edge source="com.model.LoginModel" target="com.model.Object.User">
+              <point x="-86.5" y="-91.5" />
+              <point x="604.8750000000001" y="311.0" />
+              <point x="1096.844642857143" y="311.0" />
+              <point x="-51.14285714285717" y="135.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.model.HistoryModel">
+              <point x="31.0" y="-47.5" />
+              <point x="2113.510984848483" y="1270.0" />
+              <point x="2390.760984848483" y="1270.0" />
+              <point x="2390.760984848483" y="552.0" />
+              <point x="2534.9803256267523" y="552.0" />
+              <point x="0.0" y="80.5" />
+            </edge>
+            <edge source="com.view.DashBoardView" target="com.view.View">
+              <point x="0.0" y="-135.5" />
+              <point x="2868.760984848483" y="532.0" />
+              <point x="2021.6958333333334" y="532.0" />
+              <point x="22.0" y="14.5" />
+            </edge>
+            <edge source="com.controller.RegisterController" target="com.controller.SessionController">
+              <point x="106.39999999999998" y="-47.5" />
+              <point x="626.785984848483" y="1685.0" />
+              <point x="1983.310984848483" y="1685.0" />
+              <point x="-99.20000000000005" y="47.5" />
+            </edge>
+            <edge source="com.controller.RegisterController" target="com.model.SessionModel">
+              <point x="-53.200000000000045" y="-47.5" />
+              <point x="467.18598484848303" y="1695.0" />
+              <point x="454.1359848484831" y="1695.0" />
+              <point x="454.1359848484831" y="1300.0" />
+              <point x="1133.1774499310209" y="1300.0" />
+              <point x="-32.5" y="80.5" />
+            </edge>
+            <edge source="com.controller.DashBoardController" target="com.model.Object.User">
+              <point x="82.5" y="-47.5" />
+              <point x="3150.938658960086" y="1695.0" />
+              <point x="3393.760984848483" y="1695.0" />
+              <point x="3393.760984848483" y="291.0" />
+              <point x="1301.4160714285715" y="291.0" />
+              <point x="153.4285714285714" y="135.5" />
+            </edge>
+            <edge source="com.controller.HistoryController" target="com.controller.SessionController">
+              <point x="65.25" y="47.5" />
+              <point x="2597.010984848483" y="1290.0" />
+              <point x="2154.8443181818166" y="1290.0" />
+              <point x="72.33333333333326" y="-47.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.model.RegisterModel">
+              <point x="-111.15384615384608" y="-47.5" />
+              <point x="1330.482138694637" y="1902.0" />
+              <point x="164.25" y="1902.0" />
+              <point x="164.25" y="939.0" />
+              <point x="136.25" y="939.0" />
+              <point x="-99.75" y="168.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.view.DialogMsg">
+              <point x="133.38461538461536" y="-47.5" />
+              <point x="1575.0206002330983" y="1912.0" />
+              <point x="3552.0085349174624" y="1912.0" />
+              <point x="3552.0085349174624" y="1310.0" />
+              <point x="3318.760984848483" y="1310.0" />
+              <point x="64.5" y="47.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.view.DialogMsg">
+              <point x="113.66666666666674" y="-47.5" />
+              <point x="2196.1776515151496" y="1310.0" />
+              <point x="3189.760984848483" y="1310.0" />
+              <point x="-64.5" y="47.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.view.LoginView">
+              <point x="44.46153846153845" y="-47.5" />
+              <point x="1486.0975233100214" y="1872.0" />
+              <point x="1729.5181592217307" y="1872.0" />
+              <point x="75.25" y="80.5" />
+            </edge>
+            <edge source="com.controller.RegisterController" target="com.view.RegisterView">
+              <point x="53.19999999999999" y="-47.5" />
+              <point x="573.5859848484831" y="1695.0" />
+              <point x="614.1774499310209" y="1695.0" />
+              <point x="-115.5" y="157.5" />
+            </edge>
+            <edge source="com.view.MenuView" target="com.view.View">
+              <point x="0.0" y="-58.5" />
+              <point x="3427.0085349174624" y="522.0" />
+              <point x="2032.6958333333334" y="522.0" />
+              <point x="33.0" y="14.5" />
+            </edge>
+            <edge source="com.view.RegisterView" target="com.view.View">
+              <point x="0.0" y="-157.5" />
+              <point x="729.6774499310209" y="1280.0" />
+              <point x="1025.1774499310209" y="1280.0" />
+              <point x="1025.1774499310209" y="522.0" />
+              <point x="1966.6958333333334" y="522.0" />
+              <point x="-33.0" y="14.5" />
+            </edge>
+            <edge source="com.view.LoginView" target="com.view.View">
+              <point x="0.0" y="-80.5" />
+              <point x="1654.2681592217307" y="542.0" />
+              <point x="1988.6958333333334" y="542.0" />
+              <point x="-11.0" y="14.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.controller.LeconController">
+              <point x="-51.66666666666674" y="-47.5" />
+              <point x="2030.8443181818163" y="1270.0" />
+              <point x="1804.885984848483" y="1270.0" />
+              <point x="-63.25" y="47.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.controller.LoginController">
+              <point x="0.0" y="-47.5" />
+              <point x="1441.635984848483" y="1852.0" />
+              <point x="1375.7681592217307" y="1852.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.view.SessionView">
+              <point x="-93.00000000000011" y="-47.5" />
+              <point x="1989.510984848483" y="1290.0" />
+              <point x="1582.5524499310209" y="1290.0" />
+              <point x="114.375" y="80.5" />
+            </edge>
+            <edge source="com.controller.LoginController" target="com.model.SessionModel">
+              <point x="-42.80000000000001" y="-36.5" />
+              <point x="1332.9681592217307" y="1665.0" />
+              <point x="1198.1774499310209" y="1665.0" />
+              <point x="32.50000000000006" y="80.5" />
+            </edge>
+            <edge source="com.DAO.UserDAO" target="com.model.Object.User">
+              <point x="0.0" y="-36.5" />
+              <point x="2972.6958333333337" y="301.0" />
+              <point x="1250.2732142857144" y="301.0" />
+              <point x="102.28571428571428" y="135.5" />
+            </edge>
+            <edge source="com.view.SessionView" target="com.view.View">
+              <point x="0.0" y="-80.5" />
+              <point x="1468.1774499310209" y="532.0" />
+              <point x="1977.6958333333334" y="532.0" />
+              <point x="-22.0" y="14.5" />
+            </edge>
+            <edge source="com.controller.HistoryController" target="com.model.HistoryModel">
+              <point x="65.25" y="-47.5" />
+              <point x="2597.010984848483" y="552.0" />
+              <point x="2627.3136589600854" y="552.0" />
+              <point x="92.33333333333314" y="80.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.view.DashBoardView">
+              <point x="93.0" y="-47.5" />
+              <point x="2175.510984848483" y="1300.0" />
+              <point x="2775.510984848483" y="1300.0" />
+              <point x="-93.25" y="135.5" />
+            </edge>
+            <edge source="com.view.frame.MainWindow" target="com.view.frame.JMenu">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.controller.HistoryController">
+              <point x="51.66666666666663" y="-47.5" />
+              <point x="2134.1776515151496" y="1280.0" />
+              <point x="2466.510984848483" y="1280.0" />
+              <point x="-65.25" y="47.5" />
+            </edge>
+            <edge source="com.controller.LoginController" target="com.view.SessionView">
+              <point x="0.0" y="-36.5" />
+              <point x="1375.7681592217307" y="1675.0" />
+              <point x="1409.4274499310209" y="1675.0" />
+              <point x="1409.4274499310209" y="1310.0" />
+              <point x="1430.0524499310209" y="1310.0" />
+              <point x="-38.125" y="80.5" />
+            </edge>
+            <edge source="com.model.SessionModel" target="com.model.Object.User">
+              <point x="-32.49999999999994" y="-80.5" />
+              <point x="1133.1774499310209" y="939.0" />
+              <point x="1153.1149499310209" y="939.0" />
+              <point x="1153.1149499310209" y="311.0" />
+              <point x="1147.9875000000002" y="311.0" />
+              <point x="-5.6843418860808015E-14" y="135.5" />
+            </edge>
+            <edge source="com.controller.MenuController" target="com.controller.SessionController">
+              <point x="66.69230769230774" y="-47.5" />
+              <point x="1508.3282925407907" y="1882.0" />
+              <point x="2082.510984848483" y="1882.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="com.controller.SessionController" target="com.controller.DashBoardController">
+              <point x="99.20000000000005" y="47.5" />
+              <point x="2181.7109848484833" y="1685.0" />
+              <point x="3040.938658960086" y="1685.0" />
+              <point x="-27.5" y="-47.5" />
+            </edge>
+            <edge source="com.model.LeconModel" target="com.model.Model">
+              <point x="0.0" y="-47.5" />
+              <point x="1301.1149499310209" y="512.0" />
+              <point x="1117.8649499310209" y="512.0" />
+              <point x="74.25" y="36.5" />
+            </edge>
+            <edge source="com.controller.LoginController" target="com.model.LoginModel">
+              <point x="-85.60000000000002" y="-36.5" />
+              <point x="1290.1681592217305" y="1675.0" />
+              <point x="971.1774499310209" y="1675.0" />
+              <point x="971.1774499310209" y="939.0" />
+              <point x="777.875" y="939.0" />
+              <point x="86.5" y="91.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5550310667232579" x="1218.0" y="947.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Observer/JLabelObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Observer/DefaultListModelObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/SessionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="84" column="9" lean-forward="false" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/frame/JMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/LeconController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#1185#1186#0" expanded="false" />
+            <element signature="e#1213#1214#0" expanded="false" />
+            <element signature="e#1301#1302#0" expanded="false" />
+            <element signature="e#1328#1329#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/DashBoardController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/DashBoardView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/DatabaseFactoryDAO.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Observer/DefaultListModelObserver.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/DialogMsg.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/Exercice.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/ExerciceDAO.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/HistoryController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/HistoryDAO.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/HistoryModel.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/HistoryView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Observer/JLabelObserver.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/frame/JMenu.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/Language.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/Lecon.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/LeconController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/LeconModel.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/LeconView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/LoginController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/LoginModel.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/LoginView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/MainController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/frame/MainWindow.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/MenuController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/MenuView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Model.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/RegisterController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/RegisterModel.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/RegisterView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/SessionController.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/SessionModel.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/SessionView.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/User.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/UserDAO.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/View.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/allclasses-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/allclasses-noframe.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/constant-values.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/deprecated-list.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/help-doc.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-1.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-10.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-11.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-12.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-13.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-14.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-15.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-2.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-3.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-4.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-5.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-6.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-7.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-8.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/index-files/index-9.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/overview-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/overview-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/overview-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/frame/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Observer/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/package-frame.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/frame/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Observer/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/DAO/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/view/frame/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Object/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/model/Observer/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/com/controller/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/script.js</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/serialized-form.html</node>
+            <node x="" y="">$PROJECT_DIR$/JavaDoc/stylesheet.css</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.4920767280997597" x="1119.0" y="1399.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/DashBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-Java_Julien_LeGuillant">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Java_Julien_LeGuillant</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">mdl-Java_Julien_LeGuillant</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-225.0" y="-33.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/com;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/controller;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/DAO;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Object;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/model/Observer;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view;/Users/julienleguillant/Documents/LEGUILLANT_Julien/ProjectFinal/src/com/view/frame;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.536887523635536" x="-107.0" y="-2840.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="296.0">com</node>
+            <node x="193.0" y="74.0">netscape</node>
+            <node x="0.0" y="148.0">oracle</node>
+            <node x="0.0" y="370.0">org</node>
+            <node x="0.0" y="74.0">resources</node>
+            <node x="0.0" y="0.0">toolbarButtonGraphics</node>
+            <node x="314.0" y="296.0">sun</node>
+            <node x="274.0" y="0.0">META-INF</node>
+            <node x="153.0" y="370.0">jdk</node>
+            <node x="168.0" y="222.0">apple</node>
+            <node x="158.0" y="296.0">java</node>
+            <node x="333.0" y="222.0">javax</node>
+            <node x="169.0" y="148.0">native</node>
+            <node x="0.0" y="222.0">javafx</node>
+            <node x="303.0" y="370.0">db</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-111.0" y="152.0" />
+          <SelectedNodes>
+            <node>javafx</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/controller/HistoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/HistoryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="65" column="132" lean-forward="false" selection-start-line="65" selection-start-column="132" selection-end-line="65" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Object/Exercice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.model</OriginalElement>
+          <nodes>
+            <node x="702.0" y="123.0">com.model.RegisterModel</node>
+            <node x="613.75" y="0.0">com.model.Model</node>
+            <node x="1121.0" y="232.5">com.model.LeconModel</node>
+            <node x="0.0" y="505.0">com.model.HistoryModel</node>
+            <node x="602.0" y="505.0">com.model.Object</node>
+            <node x="414.0" y="505.0">com.model.Observer</node>
+            <node x="365.99999999999994" y="199.5">com.model.SessionModel</node>
+            <node x="0.0" y="200.0">com.model.LoginModel</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.model.LoginModel" target="com.model.Model">
+              <point x="0.0" y="-91.5" />
+              <point x="173.0" y="93.0" />
+              <point x="638.5" y="93.0" />
+              <point x="-74.25" y="36.5" />
+            </edge>
+            <edge source="com.model.SessionModel" target="com.model.Model">
+              <point x="0.0" y="-92.0" />
+              <point x="524.0" y="103.0" />
+              <point x="688.0" y="103.0" />
+              <point x="-24.75" y="36.5" />
+            </edge>
+            <edge source="com.model.RegisterModel" target="com.model.Model">
+              <point x="0.0" y="-168.5" />
+              <point x="901.5" y="103.0" />
+              <point x="737.5" y="103.0" />
+              <point x="24.75" y="36.5" />
+            </edge>
+            <edge source="com.model.LeconModel" target="com.model.Model">
+              <point x="0.0" y="-59.0" />
+              <point x="1271.5" y="93.0" />
+              <point x="787.0" y="93.0" />
+              <point x="74.25" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9544996997098605" x="548.0" y="390.0" />
+          <SelectedNodes>
+            <node>com.model.LoginModel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.model.Object">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.model.Object</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.model.Object.User</node>
+            <node x="0.0" y="493.0">com.model.Object.Exercice</node>
+            <node x="320.0" y="493.0">com.model.Object.Lecon</node>
+            <node x="535.0" y="493.0">com.model.Object.Language</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-46.0" y="477.0" />
+          <SelectedNodes>
+            <node>com.model.Object.User</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/model/Object/Language.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="66" lean-forward="false" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.view">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.view</OriginalElement>
+          <nodes>
+            <node x="365.0" y="254.0">com.view.MenuView</node>
+            <node x="1179.0" y="199.0">com.view.LoginView</node>
+            <node x="1344.0" y="0.0">com.view.View</node>
+            <node x="1606.0" y="221.0">com.view.SessionView</node>
+            <node x="683.0" y="210.0">com.view.HistoryView</node>
+            <node x="293.0" y="692.0">com.view.frame</node>
+            <node x="2041.0" y="89.0">com.view.RegisterView</node>
+            <node x="2668.0" y="133.0">com.view.DashBoardView</node>
+            <node x="0.0" y="232.0">com.view.LeconView</node>
+            <node x="0.0" y="692.0">com.view.DialogMsg</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.view.LoginView" target="com.view.View">
+              <point x="0.0" y="-169.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.view.HistoryView" target="com.view.View">
+              <point x="0.0" y="-158.0" />
+              <point x="921.0" y="69.0" />
+              <point x="1371.5" y="69.0" />
+              <point x="-11.0" y="14.5" />
+            </edge>
+            <edge source="com.view.MenuView" target="com.view.View">
+              <point x="0.0" y="-114.0" />
+              <point x="514.0" y="59.0" />
+              <point x="1360.5" y="59.0" />
+              <point x="-22.0" y="14.5" />
+            </edge>
+            <edge source="com.view.DashBoardView" target="com.view.View">
+              <point x="0.0" y="-235.0" />
+              <point x="2930.5" y="49.0" />
+              <point x="1415.5" y="49.0" />
+              <point x="33.0" y="14.5" />
+            </edge>
+            <edge source="com.view.SessionView" target="com.view.View">
+              <point x="0.0" y="-147.0" />
+              <point x="1813.5" y="69.0" />
+              <point x="1393.5" y="69.0" />
+              <point x="11.0" y="14.5" />
+            </edge>
+            <edge source="com.view.RegisterView" target="com.view.View">
+              <point x="0.0" y="-279.0" />
+              <point x="2344.5" y="59.0" />
+              <point x="1404.5" y="59.0" />
+              <point x="22.0" y="14.5" />
+            </edge>
+            <edge source="com.view.LeconView" target="com.view.View">
+              <point x="0.0" y="-136.0" />
+              <point x="172.5" y="49.0" />
+              <point x="1349.5" y="49.0" />
+              <point x="-33.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7839195979899497" x="893.0" y="481.0" />
+          <SelectedNodes>
+            <node>com.view.MenuView</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.view.DashBoardView">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.view.DashBoardView</OriginalElement>
+          <nodes>
+            <node x="5401.225" y="16959.0">com.view.MenuView</node>
+            <node x="6846.0" y="16442.0">com.view.View</node>
+            <node x="7053.573958333334" y="16937.0">com.view.SessionView</node>
+            <node x="8296.573958333334" y="16431.0">java.awt.event.ActionListener</node>
+            <node x="3217.5" y="16123.0">javax.swing.JDialog</node>
+            <node x="5289.848958333334" y="9222.0">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="2663.6781250000004" y="22.0">java.awt.image.ImageObserver</node>
+            <node x="7378.573958333334" y="16882.0">com.view.DashBoardView</node>
+            <node x="1832.5" y="7550.0">java.awt.Container</node>
+            <node x="1349.5" y="15176.0">java.awt.Dialog</node>
+            <node x="4944.5" y="11005.0">javax.swing.JComponent</node>
+            <node x="359.5" y="11456.0">java.awt.Window</node>
+            <node x="8092.573958333334" y="16860.0">com.view.RegisterView</node>
+            <node x="5650.225" y="16948.0">com.view.LeconView</node>
+            <node x="3051.6781250000004" y="0.0">java.awt.MenuContainer</node>
+            <node x="5706.373958333334" y="15528.0">javax.swing.RootPaneContainer</node>
+            <node x="233.5" y="9222.0">javax.accessibility.Accessible</node>
+            <node x="0.0" y="145.0">java.awt.Component</node>
+            <node x="7472.058333333333" y="33.0">java.io.Serializable</node>
+            <node x="8373.073958333334" y="15605.0">java.util.EventListener</node>
+            <node x="7771.573958333334" y="16937.0">com.view.LoginView</node>
+            <node x="5964.225" y="16937.0">com.view.HistoryView</node>
+            <node x="3450.5" y="16970.0">com.view.DialogMsg</node>
+            <node x="6742.5" y="15528.0">javax.swing.JPanel</node>
+            <node x="3820.073958333334" y="15605.0">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="javax.swing.JPanel" target="javax.swing.JComponent">
+              <point x="71.0" y="-91.5" />
+              <point x="0.0" y="2060.5" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="java.awt.Container">
+              <point x="-1340.666666666667" y="-2060.5" />
+              <point x="5614.833333333333" y="10975.0" />
+              <point x="4222.0" y="10975.0" />
+              <point x="796.5" y="1697.5" />
+            </edge>
+            <edge source="javax.swing.JPanel" target="javax.accessibility.Accessible">
+              <point x="-71.0" y="-91.5" />
+              <point x="6813.5" y="15151.0" />
+              <point x="349.0" y="15151.0" />
+              <point x="349.0" y="10985.0" />
+              <point x="398.5" y="10985.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="java.awt.Dialog" target="java.awt.Window">
+              <point x="0.0" y="-443.5" />
+              <point x="0.0" y="1609.5" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+              <point x="-2283.666666666666" y="-3677.5" />
+              <point x="1141.833333333334" y="120.0" />
+              <point x="2847.6781250000004" y="120.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.view.DashBoardView" target="com.view.View">
+              <point x="0.0" y="-135.5" />
+              <point x="7565.073958333334" y="16830.0" />
+              <point x="6895.5" y="16830.0" />
+              <point x="11.0" y="14.5" />
+            </edge>
+            <edge source="javax.swing.JDialog" target="java.awt.Dialog">
+              <point x="-144.80000000000018" y="-333.5" />
+              <point x="3434.7" y="16093.0" />
+              <point x="1872.5" y="16093.0" />
+              <point x="0.0" y="443.5" />
+            </edge>
+            <edge source="com.view.MenuView" target="com.view.View">
+              <point x="0.0" y="-58.5" />
+              <point x="5515.725" y="16820.0" />
+              <point x="6851.5" y="16820.0" />
+              <point x="-33.0" y="14.5" />
+            </edge>
+            <edge source="javax.swing.JDialog" target="javax.swing.TransferHandler.HasGetTransferHandler">
+              <point x="144.80000000000018" y="-333.5" />
+              <point x="3724.3" y="16093.0" />
+              <point x="4934.0" y="16093.0" />
+              <point x="4934.0" y="10985.0" />
+              <point x="5365.348958333334" y="10985.0" />
+              <point x="-75.5" y="25.5" />
+            </edge>
+            <edge source="com.view.DialogMsg" target="javax.swing.JDialog">
+              <point x="0.0" y="-47.5" />
+              <point x="0.0" y="333.5" />
+            </edge>
+            <edge source="com.view.RegisterView" target="com.view.View">
+              <point x="-115.5" y="-157.5" />
+              <point x="8208.073958333334" y="16810.0" />
+              <point x="6917.5" y="16810.0" />
+              <point x="33.0" y="14.5" />
+            </edge>
+            <edge source="com.view.View" target="javax.swing.JPanel">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="91.5" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="javax.swing.TransferHandler.HasGetTransferHandler">
+              <point x="0.0" y="-2060.5" />
+              <point x="6955.5" y="10965.0" />
+              <point x="5516.348958333334" y="10965.0" />
+              <point x="75.5" y="25.5" />
+            </edge>
+            <edge source="com.view.HistoryView" target="com.view.View">
+              <point x="0.0" y="-80.5" />
+              <point x="6109.725" y="16840.0" />
+              <point x="6873.5" y="16840.0" />
+              <point x="-11.0" y="14.5" />
+            </edge>
+            <edge source="java.awt.Window" target="javax.accessibility.Accessible">
+              <point x="-756.5" y="-1609.5" />
+              <point x="1116.0" y="10985.0" />
+              <point x="508.5" y="10985.0" />
+              <point x="110.0" y="25.5" />
+            </edge>
+            <edge source="com.view.LoginView" target="com.view.View">
+              <point x="0.0" y="-80.5" />
+              <point x="7922.073958333334" y="16820.0" />
+              <point x="6906.5" y="16820.0" />
+              <point x="22.0" y="14.5" />
+            </edge>
+            <edge source="java.awt.Window" target="java.awt.Container">
+              <point x="756.5" y="-1609.5" />
+              <point x="-796.5" y="1697.5" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="0.0" y="-3677.5" />
+              <point x="3425.5" y="120.0" />
+              <point x="3150.6781250000004" y="120.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="com.view.RegisterView" target="java.awt.event.ActionListener">
+              <point x="115.5" y="-157.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.view.SessionView" target="com.view.View">
+              <point x="0.0" y="-80.5" />
+              <point x="7206.073958333334" y="16840.0" />
+              <point x="6884.5" y="16840.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.awt.Component" target="java.io.Serializable">
+              <point x="2283.666666666666" y="-3677.5" />
+              <point x="5709.166666666666" y="120.0" />
+              <point x="7501.058333333333" y="120.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="com.view.LeconView" target="com.view.View">
+              <point x="0.0" y="-69.5" />
+              <point x="5797.225" y="16830.0" />
+              <point x="6862.5" y="16830.0" />
+              <point x="-22.0" y="14.5" />
+            </edge>
+            <edge source="javax.swing.JDialog" target="javax.swing.WindowConstants">
+              <point x="0.0" y="-333.5" />
+              <point x="3579.5" y="16083.0" />
+              <point x="3901.073958333334" y="16083.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.awt.event.ActionListener" target="java.util.EventListener">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="javax.swing.JDialog" target="javax.accessibility.Accessible">
+              <point x="-289.60000000000036" y="-333.5" />
+              <point x="3289.8999999999996" y="16103.0" />
+              <point x="338.0" y="16103.0" />
+              <point x="338.0" y="10985.0" />
+              <point x="288.5" y="10985.0" />
+              <point x="-110.0" y="25.5" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-1697.5" />
+              <point x="0.0" y="3677.5" />
+            </edge>
+            <edge source="javax.swing.JDialog" target="javax.swing.RootPaneContainer">
+              <point x="289.60000000000036" y="-333.5" />
+              <point x="3869.1000000000004" y="16103.0" />
+              <point x="5879.873958333334" y="16103.0" />
+              <point x="0.0" y="91.5" />
+            </edge>
+            <edge source="javax.swing.JComponent" target="java.io.Serializable">
+              <point x="1340.666666666666" y="-2060.5" />
+              <point x="8296.166666666666" y="10985.0" />
+              <point x="7559.058333333333" y="10985.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1" x="3175.0" y="15576.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com</OriginalElement>
+          <nodes>
+            <node x="617.75" y="0.0">com.model.Model</node>
+            <node x="922.0" y="1554.0">com.sun.openpisces</node>
+            <node x="682.0" y="1820.0">com.oracle.javafx</node>
+            <node x="0.0" y="232.5">com.model.LeconModel</node>
+            <node x="0.0" y="693.0">com.view.SessionView</node>
+            <node x="1226.0" y="505.0">com.view.View</node>
+            <node x="0.0" y="1746.0">com.sun.naming</node>
+            <node x="716.0" y="1554.0">com.sun.accessibility</node>
+            <node x="466.0" y="1391.0">com.controller.LoginController</node>
+            <node x="700.0" y="1746.0">com.oracle.deploy</node>
+            <node x="168.0" y="1894.0">com.sun.corba</node>
+            <node x="850.0" y="1820.0">com.sun.media</node>
+            <node x="462.0" y="1968.0">com.sun.xml</node>
+            <node x="1219.0" y="1746.0">com.sun.crypto</node>
+            <node x="0.0" y="999.0">com.model.HistoryModel</node>
+            <node x="921.0" y="1968.0">com.sun.net</node>
+            <node x="1473.0" y="1672.0">com.sun.applet2</node>
+            <node x="414.0" y="999.0">com.DAO.DatabaseFactoryDAO</node>
+            <node x="513.0" y="1820.0">com.sun.beans</node>
+            <node x="335.0" y="1894.0">com.view.frame</node>
+            <node x="870.0" y="1391.0">com.DAO.UserDAO</node>
+            <node x="834.0" y="1894.0">com.sun.glass</node>
+            <node x="615.0" y="1968.0">com.sun.jmx</node>
+            <node x="1225.0" y="1968.0">com.sun.nio</node>
+            <node x="343.0" y="1820.0">com.oracle.jrockit</node>
+            <node x="998.0" y="1894.0">com.oracle.tools</node>
+            <node x="352.0" y="1746.0">com.sun.rowset</node>
+            <node x="502.0" y="1894.0">com.sun.demo</node>
+            <node x="1018.0" y="1820.0">com.oracle.xmlns</node>
+            <node x="934.0" y="1672.0">com.sun.security</node>
+            <node x="752.0" y="999.0">com.controller.RegisterController</node>
+            <node x="380.0" y="1672.0">com.sun.jarsigner</node>
+            <node x="1115.0" y="1672.0">com.sun.javadoc</node>
+            <node x="0.0" y="1672.0">com.sun.activation</node>
+            <node x="301.0" y="2042.0">com.apple.laf</node>
+            <node x="1512.0" y="693.0">com.view.LoginView</node>
+            <node x="1797.0" y="693.0">com.view.HistoryView</node>
+            <node x="172.0" y="1820.0">com.sun.pisces</node>
+            <node x="509.0" y="1554.0">com.oracle.webservices</node>
+            <node x="2175.0" y="715.0">com.view.MenuView</node>
+            <node x="1124.0" y="1554.0">com.apple.concurrent</node>
+            <node x="1186.0" y="1820.0">com.sun.istack</node>
+            <node x="0.0" y="1968.0">com.sun.jndi</node>
+            <node x="1354.0" y="1820.0">com.sun.javafx</node>
+            <node x="750.0" y="1672.0">com.sun.scenario</node>
+            <node x="192.0" y="1672.0">com.model.Observer</node>
+            <node x="873.0" y="1746.0">com.sun.javaws</node>
+            <node x="1372.0" y="999.0">com.DAO.HistoryDAO</node>
+            <node x="668.0" y="1894.0">com.sun.prism</node>
+            <node x="1046.0" y="1746.0">com.sun.deploy</node>
+            <node x="154.0" y="1968.0">com.sun.jnlp</node>
+            <node x="1522.0" y="1820.0">com.sun.swing</node>
+            <node x="768.0" y="1968.0">com.sun.org</node>
+            <node x="526.0" y="1746.0">com.sun.source</node>
+            <node x="740.0" y="200.0">com.model.LoginModel</node>
+            <node x="1324.0" y="1894.0">com.apple.eawt</node>
+            <node x="0.0" y="1554.0">com.DAO.ExerciceDAO</node>
+            <node x="1391.0" y="1746.0">com.model.Object</node>
+            <node x="0.0" y="1391.0">com.controller.SessionController</node>
+            <node x="1376.0" y="1968.0">com.oracle.util</node>
+            <node x="1073.0" y="1968.0">com.oracle.net</node>
+            <node x="652.0" y="638.0">com.view.DashBoardView</node>
+            <node x="1106.0" y="199.5">com.model.SessionModel</node>
+            <node x="565.0" y="1672.0">com.sun.java_cup</node>
+            <node x="1527.0" y="1968.0">com.oracle.nio</node>
+            <node x="1324.0" y="1554.0">com.sun.codemodel</node>
+            <node x="0.0" y="1894.0">com.sun.image</node>
+            <node x="1161.0" y="1894.0">com.sun.tools</node>
+            <node x="1124.0" y="1228.0">com.controller.DashBoardController</node>
+            <node x="0.0" y="2042.0">com.sun.rmi</node>
+            <node x="0.0" y="1228.0">com.controller.HistoryController</node>
+            <node x="1294.0" y="1672.0">com.sun.imageio</node>
+            <node x="1071.0" y="616.0">com.view.RegisterView</node>
+            <node x="384.0" y="704.0">com.view.LeconView</node>
+            <node x="1070.0" y="999.0">com.controller.MenuController</node>
+            <node x="151.0" y="2042.0">com.apple.eio</node>
+            <node x="1485.0" y="1894.0">com.sun.java</node>
+            <node x="321.00000000000006" y="123.0">com.model.RegisterModel</node>
+            <node x="0.0" y="1820.0">com.sun.webkit</node>
+            <node x="298.0" y="1554.0">com.sun.management</node>
+            <node x="308.0" y="1968.0">com.sun.awt</node>
+            <node x="177.0" y="1746.0">com.sun.tracing</node>
+            <node x="574.0" y="1228.0">com.controller.LeconController</node>
+            <node x="448.0" y="2042.0">com.sun.jdi</node>
+            <node x="1094.0" y="1391.0">com.view.DialogMsg</node>
+            <node x="1397.0" y="1391.0">com.controller.MainController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.model.LoginModel" target="com.model.Model">
+              <point x="0.0" y="-91.5" />
+              <point x="913.0" y="103.0" />
+              <point x="741.5" y="103.0" />
+              <point x="24.75" y="36.5" />
+            </edge>
+            <edge source="com.model.SessionModel" target="com.model.Model">
+              <point x="0.0" y="-92.0" />
+              <point x="1264.0" y="93.0" />
+              <point x="791.0" y="93.0" />
+              <point x="74.25" y="36.5" />
+            </edge>
+            <edge source="com.view.LoginView" target="com.view.View">
+              <point x="0.0" y="-92.0" />
+              <point x="1644.5" y="596.0" />
+              <point x="1297.357142857143" y="596.0" />
+              <point x="15.85714285714289" y="25.5" />
+            </edge>
+            <edge source="com.view.HistoryView" target="com.view.View">
+              <point x="0.0" y="-92.0" />
+              <point x="1976.0" y="586.0" />
+              <point x="1313.2142857142858" y="586.0" />
+              <point x="31.71428571428578" y="25.5" />
+            </edge>
+            <edge source="com.view.MenuView" target="com.view.View">
+              <point x="0.0" y="-70.0" />
+              <point x="2287.5" y="576.0" />
+              <point x="1329.0714285714287" y="576.0" />
+              <point x="47.57142857142867" y="25.5" />
+            </edge>
+            <edge source="com.model.RegisterModel" target="com.model.Model">
+              <point x="0.0" y="-168.5" />
+              <point x="520.5" y="103.0" />
+              <point x="692.0" y="103.0" />
+              <point x="-24.75" y="36.5" />
+            </edge>
+            <edge source="com.view.DashBoardView" target="com.view.View">
+              <point x="0.0" y="-147.0" />
+              <point x="851.5" y="596.0" />
+              <point x="1265.642857142857" y="596.0" />
+              <point x="-15.85714285714289" y="25.5" />
+            </edge>
+            <edge source="com.view.SessionView" target="com.view.View">
+              <point x="0.0" y="-92.0" />
+              <point x="182.0" y="576.0" />
+              <point x="1233.9285714285713" y="576.0" />
+              <point x="-47.57142857142867" y="25.5" />
+            </edge>
+            <edge source="com.model.LeconModel" target="com.model.Model">
+              <point x="0.0" y="-59.0" />
+              <point x="150.5" y="93.0" />
+              <point x="642.5" y="93.0" />
+              <point x="-74.25" y="36.5" />
+            </edge>
+            <edge source="com.view.RegisterView" target="com.view.View">
+              <point x="0.0" y="-169.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.view.LeconView" target="com.view.View">
+              <point x="0.0" y="-81.0" />
+              <point x="508.0" y="586.0" />
+              <point x="1249.7857142857142" y="586.0" />
+              <point x="-31.71428571428578" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8940310234961591" x="904.0" y="1325.0" />
+          <SelectedNodes>
+            <node>com.controller.DashBoardController</node>
+            <node>com.controller.LeconController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/DashBoardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1455#1456#0" expanded="false" />
+            <element signature="e#1483#1484#0" expanded="false" />
+            <element signature="e#1518#1519#0" expanded="false" />
+            <element signature="e#1549#1550#0" expanded="false" />
+            <element signature="e#1597#1598#0" expanded="false" />
+            <element signature="e#1637#1638#0" expanded="false" />
+            <element signature="e#1672#1673#0" expanded="false" />
+            <element signature="e#1703#1704#0" expanded="false" />
+            <element signature="e#1751#1752#0" expanded="false" />
+            <element signature="e#1791#1792#0" expanded="false" />
+            <element signature="e#1821#1822#0" expanded="false" />
+            <element signature="e#1847#1848#0" expanded="false" />
+            <element signature="e#1882#1883#0" expanded="false" />
+            <element signature="e#1913#1914#0" expanded="false" />
+            <element signature="e#2034#2035#0" expanded="false" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2097#2098#0" expanded="false" />
+            <element signature="e#2127#2128#0" expanded="false" />
+            <element signature="e#2168#2169#0" expanded="false" />
+            <element signature="e#2204#2205#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/DatabaseFactoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="60" column="56" lean-forward="false" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/HistoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
+            <element signature="e#484#485#0" expanded="false" />
+            <marker date="1497558481000" expanded="true" signature="1058:1096" ph="SELECT * FRO... Session" />
+            <marker date="1497558481000" expanded="true" signature="2041:2085" ph="SELECT * FRO... exoSession" />
+            <marker date="1497558481000" expanded="true" signature="2978:2999" ph="SELECT * FRO... Session" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/ExerciceDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#387#388#0" expanded="false" />
+            <marker date="1497477171000" expanded="true" signature="1046:1132" ph="SELECT * FRO... exercice" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/frame/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1085#1086#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/RegisterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1243">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
+            <element signature="e#2674#2675#0" expanded="false" />
+            <element signature="e#2721#2722#0" expanded="false" />
+            <element signature="e#2757#2758#0" expanded="false" />
+            <element signature="e#2788#2789#0" expanded="false" />
+            <element signature="e#2814#2815#0" expanded="false" />
+            <element signature="e#2896#2897#0" expanded="false" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2973#2974#0" expanded="false" />
+            <element signature="e#3006#3007#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+            <element signature="e#3070#3071#0" expanded="false" />
+            <element signature="e#3116#3117#0" expanded="false" />
+            <element signature="e#3159#3160#0" expanded="false" />
+            <element signature="e#3198#3199#0" expanded="false" />
+            <element signature="e#3227#3228#0" expanded="false" />
+            <element signature="e#3275#3276#0" expanded="false" />
+            <element signature="e#3320#3321#0" expanded="false" />
+            <element signature="e#3355#3356#0" expanded="false" />
+            <element signature="e#3385#3386#0" expanded="false" />
+            <element signature="e#3425#3426#0" expanded="false" />
+            <element signature="e#3453#3454#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/SessionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2714#2715#0" expanded="false" />
+            <element signature="e#2744#2745#0" expanded="false" />
+            <element signature="e#2779#2780#0" expanded="false" />
+            <element signature="e#2809#2810#0" expanded="false" />
+            <element signature="e#2845#2846#0" expanded="false" />
+            <element signature="e#2876#2877#0" expanded="false" />
+            <element signature="e#2919#2920#0" expanded="false" />
+            <element signature="e#2957#2958#0" expanded="false" />
+            <element signature="e#2995#2996#0" expanded="false" />
+            <element signature="e#3028#3029#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3096#3097#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/DAO/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1497518279000" expanded="true" signature="937:985" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ProjectFinal:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java_Julien_LeGuillant</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
