@@ -9,9 +9,8 @@ Available fonctionnalities :
   - History of exercices
   - Admin mode
   
-  
- Pictures : 
-  
+# Pictures
+
 ![alt text](https://i.imgur.com/7hso563.png)
 ![alt text](https://i.imgur.com/h4sDMX3.png)
 ![alt text](https://i.imgur.com/fL2hJRL.png)
